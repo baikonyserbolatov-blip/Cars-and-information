@@ -221,7 +221,7 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'BMW M3',
-          'https://cdn.pixabay.com/photo/2016/03/27/19/57/bmw-1281640_1280.jpg',
+          'https://carexpert.ru/img/int1200/bmw3i22wm3-04.jpg',
           'https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg',
           'BMW M3 — спортивный седан, сочетающий комфорт и трековые свойства. Культовый M-эмблемой и агрессивной динамикой.',
           '3.0L TwinTurbo I6',
