@@ -228,7 +228,7 @@
           '≈ 0–100 км/ч за 4.1 с • макс ~250–290 км/ч',
           '$80,000 — $120,000',
           '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/03/27/19/57/bmw-1281640_1280.jpg" alt="">
+          <img class="thumb" src="https://images.pistonheads.com/nimg/43852/_DSF3440-Edit.jpg" alt="">
           <div class="card-body">
             <h3>BMW M3</h3>
             <p class="short">Культовый спортседан — мощность и управляемость.</p>
