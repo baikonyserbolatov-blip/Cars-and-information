@@ -221,7 +221,7 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'BMW M3',
-          'https://carexpert.ru/img/int1200/bmw3i22wm3-04.jpg',
+          'https://a.d-cd.net/bb68a76s-1920.jpg',
           'https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg',
           'BMW M3 — спортивный седан, сочетающий комфорт и трековые свойства. Культовый M-эмблемой и агрессивной динамикой.',
           '3.0L TwinTurbo I6',
@@ -237,7 +237,7 @@
 
         <div class="card" onclick="openModal(
           'BMW i8',
-          'https://cdn.pixabay.com/photo/2018/03/01/10/24/bmw-3198826_1280.jpg',
+          'https://autotesla.ru/wp-content/uploads/2015/04/tehnicheskii-vid-bmw-i8.jpg',
           'https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg',
           'BMW i8 — гибридный спорткар с футуристичным дизайном и дверьми-бабочками. Экономичность в сочетании со спортивными качествами.',
           'Гибрид: бензин + электромотор',
@@ -253,7 +253,7 @@
 
         <div class="card" onclick="openModal(
           'BMW X6',
-          'https://cdn.pixabay.com/photo/2016/01/19/17/51/bmw-1144038_1280.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIVW5wsYLJJ0_tKZPiocP9HKIRkQanJY1gHQ&s',
           'https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg',
           'BMW X6 — спортивный кроссовер купе-класса. Сочетает мощность, роскошь и внедорожные возможности.',
           'V6 / V8 turbos (в зависимости от версии)',
@@ -277,8 +277,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Lexus LFA',
-          'https://cdn.pixabay.com/photo/2016/11/18/16/09/lexus-1835590_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/0/0b/Lexus_division_emblem.svg',
+          'https://a.d-cd.net/fc52f6s-960.jpg',
+          'https://hdpic.club/uploads/posts/2021-11/1636782491_4-hdpic-club-p-znak-leksus-7.jpg',
           'Lexus LFA — редкий суперкар с V10, выдающий неповторимый звук и высокую отзывчивость двигателя.',
           '4.8L V10',
           'макс ≈ 325 км/ч',
@@ -293,8 +293,8 @@
 
         <div class="card" onclick="openModal(
           'Lexus LC500',
-          'https://cdn.pixabay.com/photo/2021/01/23/16/45/lexus-5943392_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/0/0b/Lexus_division_emblem.svg',
+          'https://st.club-lexus.ru/attach/u/250755c43a52ad1a8673c6ec42072516.jpg',
+          'https://hdpic.club/uploads/posts/2021-11/1636782491_4-hdpic-club-p-znak-leksus-7.jpg',
           'Lexus LC500 — премиальное купе с атмосферным V8, элегантностью и качеством салона.',
           '5.0L V8',
           '≈ 0–100 км/ч за 4.7 с • макс ~270 км/ч',
@@ -309,8 +309,8 @@
 
         <div class="card" onclick="openModal(
           'Lexus RX',
-          'https://cdn.pixabay.com/photo/2020/02/12/09/11/lexus-4839654_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/0/0b/Lexus_division_emblem.svg',
+          'https://avatars.mds.yandex.net/get-autoru-vos/2179989/df9a4ba27a7906de0acfd18227b45623/456x342',
+          'https://hdpic.club/uploads/posts/2021-11/1636782491_4-hdpic-club-p-znak-leksus-7.jpg',
           'Lexus RX — премиальный кроссовер, известный комфортом и надежностью, популярный в семьях.',
           '2.0L / 3.5L / гибридные варианты',
           'макс ~200–230 км/ч (в зависимости от версии)',
