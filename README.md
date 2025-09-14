@@ -14,7 +14,7 @@
   body{
     margin:0;
     font-family: Inter, Arial, sans-serif;
-    background: url('https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1920&q=80') center/cover fixed no-repeat;
+    background: url('https://img.freepik.com/premium-photo/side-view-asphalt-road-sunny-summer-day_265223-8810.jpg') center/cover fixed no-repeat;
     color:#fff;
     -webkit-font-smoothing:antialiased;
     -moz-osx-font-smoothing:grayscale;
@@ -244,7 +244,7 @@
           '≈ 0–100 км/ч за 4.4 с • макс ~250 км/ч',
           '$140,000 — $170,000',
           '2019')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2018/03/01/10/24/bmw-3198826_1280.jpg" alt="">
+          <img class="thumb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRppVyTkCHSJ74FM2oKID8y-x1xLuOV9M9YQ&s" alt="">
           <div class="card-body">
             <h3>BMW i8</h3>
             <p class="short">Гибридное спортивное купе с необычным дизайном.</p>
@@ -260,7 +260,7 @@
           'макс ~250–290 км/ч',
           '$70,000 — $130,000',
           '2020')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/01/19/17/51/bmw-1144038_1280.jpg" alt="">
+          <img class="thumb" src="https://s1.autorating.ru/upload/medialibrary/5a6/5a638c2d68dcda6b991ff1c1b40f5532.jpg" alt="">
           <div class="card-body">
             <h3>BMW X6</h3>
             <p class="short">Спортивный купе-кроссовер — стиль и мощь.</p>
@@ -284,7 +284,7 @@
           'макс ≈ 325 км/ч',
           '$375,000 — $500,000 (все примерные цены для рынка)',
           '2012')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/11/18/16/09/lexus-1835590_1280.jpg" alt="">
+          <img class="thumb" src="https://blog.consumerguide.com/wp-content/uploads/sites/2/2020/03/3943499_orig.jpg" alt="">
           <div class="card-body">
             <h3>Lexus LFA</h3>
             <p class="short">Японский суперкар — звук и редкость.</p>
@@ -300,7 +300,7 @@
           '≈ 0–100 км/ч за 4.7 с • макс ~270 км/ч',
           '$92,000 — $110,000',
           '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2021/01/23/16/45/lexus-5943392_1280.jpg" alt="">
+          <img class="thumb" src="https://media.ed.edmunds-media.com/lexus/ls-500/2021/oem/2021_lexus_ls-500_sedan_base_fq_oem_3_1600.jpg" alt="">
           <div class="card-body">
             <h3>Lexus LC500</h3>
             <p class="short">Красивое премиум-купе с V8.</p>
@@ -316,7 +316,7 @@
           'макс ~200–230 км/ч (в зависимости от версии)',
           '$45,000 — $75,000',
           '2020')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2020/02/12/09/11/lexus-4839654_1280.jpg" alt="">
+          <img class="thumb" src="https://st.club-lexus.ru/attach/u/872adc057268a5bf6b371aa27709454c.jpg" alt="">
           <div class="card-body">
             <h3>Lexus RX</h3>
             <p class="short">Комфортный премиум-кроссовер для семьи.</p>
@@ -340,7 +340,7 @@
           '≈ 0–100 км/ч за 3.6–4.0 с • макс ~310 км/ч',
           '$115,000 — $160,000',
           '2020')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2017/03/27/14/56/mercedes-2178774_1280.jpg" alt="">
+          <img class="thumb" src="https://sales.mercedes-olimp-neva.ru/images/gallery/gallery_model_cars/image_10_11.jpg" alt="">
           <div class="card-body">
             <h3>Mercedes-AMG GT</h3>
             <p class="short">Спорткупе с характером AMG.</p>
@@ -356,7 +356,7 @@
           'макс ~210–240 км/ч (в завис. от версии)',
           '$130,000 — $200,000',
           '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2020/05/28/12/47/mercedes-5233717_1280.jpg" alt="">
+          <img class="thumb" src="https://img.mercedes-benz-kiev.com/data/news/39-novyy-mercedes-benz-g-class-v-kieve-sostoyalas-ofitsialnaya-premera/mercedes-benz-g-63-1.jpg" alt="">
           <div class="card-body">
             <h3>Mercedes G-Class</h3>
             <p class="short">Роскошный и брутальный внедорожник.</p>
@@ -372,7 +372,7 @@
           '≈ 0–100 км/ч за ~3.9–4.2 с',
           '$70,000 — $90,000',
           '2019')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/11/29/05/58/car-1866500_1280.jpg" alt="">
+          <img class="thumb" src="https://avatars.mds.yandex.net/get-autoru-vos/1981494/5b1d7be6fdf9d113c0822199efdaea98/456x342" alt="">
           <div class="card-body">
             <h3>Mercedes C63 AMG</h3>
             <p class="short">Мал, но свиреп — эмоции и мощь.</p>
@@ -396,7 +396,7 @@
           '≈ 0–100 км/ч за 3.4–3.6 с • макс ~330 км/ч',
           '$170,000 — $210,000',
           '2020')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/02/13/12/26/car-1191507_1280.jpg" alt="">
+          <img class="thumb" src="https://i.infocar.ua/i/12/5834/1200x630.jpg" alt="">
           <div class="card-body">
             <h3>Audi R8</h3>
             <p class="short">Суперкар с V10 и отличной электроникой.</p>
@@ -412,7 +412,7 @@
           '≈ 0–100 км/ч за ~3.6 с',
           '$110,000 — $140,000',
           '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2017/09/02/13/02/audi-2702098_1280.jpg" alt="">
+          <img class="thumb" src="https://gogetcar.ru/upload/uf/e30/vd84e5fsffbegq9ftoztzytc0bmwi0n1/_Audi_RS6_Avant_Header.jpg" alt="">
           <div class="card-body">
             <h3>Audi RS6</h3>
             <p class="short">Универсал-убийца — скорость и практичность.</p>
@@ -428,7 +428,7 @@
           'макс ~250–260 км/ч',
           '$50,000 — $70,000',
           '2019')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2017/01/27/14/05/car-2017501_1280.jpg" alt="">
+          <img class="thumb" src="https://lh6.googleusercontent.com/proxy/oKeIqnWiXI9DfKZvKpF7bxOfmQ9eB2CHrbC6LxwF5fzQGx3lifOb1CVtUMKUzv6SGoT_XrFcaOO-1JXNXNQ" alt="">
           <div class="card-body">
             <h3>Audi TT</h3>
             <p class="short">Лаконичное купе с фирменным стилем.</p>
@@ -451,8 +451,8 @@
           '3.0L Turbo',
           '≈ 0–100 км/ч за 4.1–4.3 с',
           '$50,000 — $60,000',
-          '2020')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/03/27/21/16/car-1284514_1280.jpg" alt="">
+          '1995')">
+          <img class="thumb" src="https://avatars.mds.yandex.net/get-autoru-vos/1980785/65b98a46458d4c4189767e6c76a81039/456x342" alt="">
           <div class="card-body">
             <h3>Toyota Supra</h3>
             <p class="short">Спортивное купе в духе JDM-легенд.</p>
@@ -460,18 +460,18 @@
         </div>
 
         <div class="card" onclick="openModal(
-          'Toyota GR Yaris',
+          'Toyota Camry70',
           'https://cdn.pixabay.com/photo/2021/04/11/09/12/toyota-6176224_1280.jpg',
           'https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_logo.png',
-          'GR Yaris — раллийный хэтчбек с невероятной управляемостью и мощностью для своего класса.',
-          '1.6L Turbo',
-          '≈ 0–100 км/ч за ~5.2–5.5 с',
-          '$35,000 — $45,000',
-          '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2021/04/11/09/12/toyota-6176224_1280.jpg" alt="">
+          'Camry — один из красивых модели Toyota',
+          '3.5L',
+          '≈ 0–100 км/ч за ~7-7.5 с',
+          '$15,500 - $25,000',
+          '2020')">
+          <img class="thumb" src="https://bestrental.com.ua/wp-content/uploads/2024/04/7-img_4368_1.jpg" alt="">
           <div class="card-body">
-            <h3>Toyota GR Yaris</h3>
-            <p class="short">Раллийная природа в компактном кузове.</p>
+            <h3>Toyota Camry 70</h3>
+            <p class="short">Красивый и универсал седан из марки Toyota</p>
           </div>
         </div>
 
@@ -484,7 +484,7 @@
           'макс ~180–200 км/ч (зависит от версии)',
           '$60,000 — $90,000',
           '2019')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/11/19/14/00/toyota-1835407_1280.jpg" alt="">
+          <img class="thumb" src="https://lh3.googleusercontent.com/proxy/biZuaKY6E2-YjviRb-qv7xHjq2ENa6KkiX745OFpoyXM9IZj2uRAbFZVWWtHHClH-cSUivgLC23uw_pabRMdMV-VEpgjR8EfD6uDJZYkTmhw17l8A0RaNUndiLP7xb4142ROkkEWVpFUrU75DY6q2uRt" alt="">
           <div class="card-body">
             <h3>Toyota Land Cruiser</h3>
             <p class="short">Надёжен в любых условиях — выбор для путешествий.</p>
@@ -508,7 +508,7 @@
           '≈ 0–100 км/ч за ~2.9–3.0 с • макс ~340 км/ч',
           '$280,000 — $350,000',
           '2020')">
-          <img class="thumb" src="https://images.unsplash.com/photo-1549921296-3f1b1f6bcd99?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80" alt="">
+          <img class="thumb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRer50z_ft_ug3TLz3qpqWWMlApZYi_IT3j1g&s" alt="">
           <div class="card-body">
             <h3>Ferrari F8</h3>
             <p class="short">Итальянский суперкар — характер и звук V8.</p>
@@ -524,7 +524,7 @@
           '≈ 0–100 км/ч за ~3.0 с',
           '$250,000 — $330,000',
           '2018')">
-          <img class="thumb" src="https://images.unsplash.com/photo-1549921296-3f1b1f6bcd99?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80" alt="">
+          <img class="thumb" src="https://s0.rbk.ru/v6_top_pics/ampresize/media/img/8/38/755204094731388.jpg" alt="">
           <div class="card-body">
             <h3>Ferrari 488</h3>
             <p class="short">Турбо-эпоха Ferrari — баланс мощности и управляемости.</p>
@@ -540,7 +540,7 @@
           'макс очень высокий, более 350+ миль/ч (ограничения), практические значения — экстремальные',
           'несколько миллионов $ (в зависимости от рынка)',
           '2014')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2015/03/27/13/16/car-694098_1280.jpg" alt="">
+          <img class="thumb" src="https://hdpic.club/uploads/posts/2021-11/1636459273_8-hdpic-club-p-ferrari-laferrari-14.jpg" alt="">
           <div class="card-body">
             <h3>Ferrari LaFerrari</h3>
             <p class="short">Эксклюзивный гибридный гиперкар — вершина инженерии.</p>
@@ -564,7 +564,7 @@
           'зависит от модификации; трековые версии очень быстры',
           '$100,000 — $250,000',
           '2020')">
-          <img class="thumb" src="https://images.unsplash.com/photo-1502877338535-766e1452684a?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80" alt="">
+          <img class="thumb" src="https://robbreport.com/wp-content/uploads/2024/11/turboremastered06.jpg?w=1024" alt="">
           <div class="card-body">
             <h3>Porsche 911</h3>
             <p class="short">Классика спортивных автомобилей с узнаваемым силуэтом.</p>
@@ -580,7 +580,7 @@
           'быстрая разгонная динамика; макс зависит от версии',
           '$120,000 — $185,000',
           '2021')">
-          <img class="thumb" src="https://images.unsplash.com/photo-1549921296-3f1b1f6bcd99?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80" alt="">
+          <img class="thumb" src="https://i.infocar.ua/i/2/5980/114971/1920x.jpg" alt="">
           <div class="card-body">
             <h3>Porsche Taycan</h3>
             <p class="short">Первый полноценный электрокар Porsche с драйверским характером.</p>
@@ -596,7 +596,7 @@
           'динамика высокого уровня для седана',
           '$90,000 — $180,000',
           '2019')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2016/01/19/17/48/porsche-1149900_1280.jpg" alt="">
+          <img class="thumb" src="https://avtorinok.ru/cache/storage/photo/pics/porsche/panamera/211992-gthumb-gwdata640-ghdata480-gfitdatacrop.jpg" alt="">
           <div class="card-body">
             <h3>Porsche Panamera</h3>
             <p class="short">Спортивный роскошный седан с драйверским уклоном.</p>
@@ -620,7 +620,7 @@
           '≈ 0–100 км/ч за ~2.9–3.2 с',
           '$200,000 — $300,000',
           '2020')">
-          <img class="thumb" src="https://images.unsplash.com/photo-1470418048257-7e7c6e74f2f3?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80" alt="">
+          <img class="thumb" src="https://www.a777aa77.ru/upload/2018-lamborghini-huracan-performante-c.jpg" alt="">
           <div class="card-body">
             <h3>Lamborghini Huracan</h3>
             <p class="short">Агрессивный дизайн и мощный V10.</p>
@@ -636,7 +636,7 @@
           'макс очень высокий; разгон молниеносный',
           '$400,000 — $600,000',
           '2019')">
-          <img class="thumb" src="https://images.unsplash.com/photo-1542367597-1a5f9d3a1d46?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80" alt="">
+          <img class="thumb" src="https://autoreview.ru/images/Article/1674/Article_167421_860_575.jpg" alt="">
           <div class="card-body">
             <h3>Lamborghini Aventador</h3>
             <p class="short">Флагманский V12 суперкар — эффект и скорость.</p>
@@ -652,7 +652,7 @@
           'макс ~305 км/ч (в зависимости от версии)',
           '$200,000 — $250,000',
           '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2019/11/25/05/50/automobile-4657549_1280.jpg" alt="">
+          <img class="thumb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTo8xwsImFhZ14DdVbKnRKDpP_v3m75-koA&s" alt="">
           <div class="card-body">
             <h3>Lamborghini Urus</h3>
             <p class="short">Спортивный ультра-SUV от Lamborghini.</p>
@@ -676,7 +676,7 @@
           'макс свыше 400 км/ч (в зависимости от версии)',
           '$2,500,000 — $3,500,000',
           '2019')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2017/01/31/20/42/auto-2029173_1280.jpg" alt="">
+          <img class="thumb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DvP15UTfO_lVBAFXSJGpT9ya6OjMy3Wm-A&s" alt="">
           <div class="card-body">
             <h3>Bugatti Chiron</h3>
             <p class="short">Одна из самых мощных и быстрых серийных машин в мире.</p>
@@ -692,7 +692,7 @@
           'макс до ~407+ км/ч (в зависимости от модификации)',
           '$1,700,000+ (в зависимости от редкости)',
           '2010')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2014/12/15/13/40/bugatti-569223_1280.jpg" alt="">
+          <img class="thumb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPRRxVdXIZJh8fokGSfqKZPbnkqGP2qTQFg&s" alt="">
           <div class="card-body">
             <h3>Bugatti Veyron</h3>
             <p class="short">Революционный гиперкар — прорыв в скорости и инженерии.</p>
@@ -708,7 +708,7 @@
           'показатели экстремальные, акцент на эксклюзивность',
           'несколько миллионов $',
           '2021')">
-          <img class="thumb" src="https://cdn.pixabay.com/photo/2021/08/10/12/09/car-6539008_1280.jpg" alt="">
+          <img class="thumb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTa0rOhghU-W6_hv9JTRiMcZ5cZE1Uh9sfYw&s" alt="">
           <div class="card-body">
             <h3>Bugatti Centodieci</h3>
             <p class="short">Эксклюзивный гиперкар ограниченной серии.</p>
