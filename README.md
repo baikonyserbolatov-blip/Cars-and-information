@@ -2,17 +2,16 @@
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Галерея машин</title>
+<title>Атмосферная галерея машин</title>
 <style>
   body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #111;
     color: #fff;
     overflow-x: hidden;
   }
 
-  /* Главный экран */
+  /* Главное меню с атмосферным фоном */
   #mainMenu {
     height: 100vh;
     display: flex;
@@ -20,14 +19,15 @@
     align-items: center;
     position: relative;
     flex-direction: column;
-    background: #222;
+    background: url('https://images.unsplash.com/photo-1612912903301-3dc0edb8f0d2?crop=entropy&cs=tinysrgb&fit=max&w=1920&q=80') center/cover no-repeat;
+    background-blend-mode: overlay;
+    background-color: rgba(0,0,0,0.6);
   }
 
-  /* Меню */
   .menu {
     display: flex;
     gap: 50px;
-    font-size: 32px;
+    font-size: 36px;
     position: relative;
     z-index: 1;
   }
@@ -53,19 +53,21 @@
     transition: width 0.2s, height 0.2s;
   }
 
-  /* Галерея машин */
+  /* Страница с машинами */
   #carsPage {
     display: none;
-    padding: 20px;
+    padding: 40px;
     text-align: center;
-    background: #111;
     min-height: 100vh;
+    background: url('https://images.unsplash.com/photo-1607746882042-944635dfe10e?crop=entropy&cs=tinysrgb&fit=max&w=1920&q=80') center/cover no-repeat;
+    background-blend-mode: overlay;
+    background-color: rgba(0,0,0,0.7);
   }
 
   .cars-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 30px;
     justify-items: center;
     margin-top: 30px;
   }
@@ -73,10 +75,11 @@
   .car {
     cursor: pointer;
     border: 2px solid #fff;
-    border-radius: 10px;
+    border-radius: 15px;
     overflow: hidden;
-    width: 200px;
-    transition: transform 0.2s;
+    width: 220px;
+    background: rgba(0,0,0,0.5);
+    transition: transform 0.3s, box-shadow 0.3s;
   }
 
   .car img {
@@ -85,19 +88,27 @@
 
   .car:hover {
     transform: scale(1.05);
+    box-shadow: 0 0 20px #ffcc00;
   }
 
-  /* Блок с информацией */
+  /* Информационный блок */
   .info {
     display: none;
     margin-top: 20px;
-    background: #333;
-    padding: 20px;
-    border-radius: 10px;
-    width: 400px;
+    background: rgba(0,0,0,0.85);
+    padding: 25px;
+    border-radius: 15px;
+    width: 450px;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    box-shadow: 0 0 20px #ffcc00;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from {opacity: 0; transform: translateY(-20px);}
+    to {opacity: 1; transform: translateY(0);}
   }
 
   .close-btn {
@@ -108,16 +119,21 @@
   }
 
   .back-btn {
-    margin-top: 20px;
+    margin-top: 25px;
     cursor: pointer;
     color: #ffcc00;
-    font-size: 20px;
+    font-size: 22px;
+    display: inline-block;
+  }
+
+  h1 {
+    margin-bottom: 20px;
   }
 </style>
 </head>
 <body>
 
-<!-- Главный экран -->
+<!-- Главное меню -->
 <div id="mainMenu">
   <h1>Главное меню</h1>
   <div class="menu">
@@ -132,42 +148,41 @@
 <div id="carsPage">
   <h1>Выберите машину</h1>
   <div class="cars-container">
-    <!-- Примеры 9 машин -->
-    <div class="car" data-name="Ferrari F8" data-info="Производитель: Ferrari\nМаксимальная скорость: 340 км/ч\nМощность: 710 л.с.\nЦена: $280,000" >
-      <img src="https://unsplash.com/photos/1zYd3v9Q8J4/download?force=true&w=400" alt="Ferrari">
+    <div class="car" data-name="Ferrari F8" data-info="Производитель: Ferrari\nМаксимальная скорость: 340 км/ч\nМощность: 710 л.с.\nЦена: $280,000\nГод выпуска: 2020\nДвигатель: V8">
+      <img src="https://images.unsplash.com/photo-1612912903301-3dc0edb8f0d2?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Ferrari">
       <p>Ferrari F8</p>
     </div>
-    <div class="car" data-name="Lamborghini Huracan" data-info="Производитель: Lamborghini\nМаксимальная скорость: 325 км/ч\nМощность: 640 л.с.\nЦена: $260,000">
-      <img src="https://unsplash.com/photos/8uK0FzVJ4Vg/download?force=true&w=400" alt="Lamborghini">
+    <div class="car" data-name="Lamborghini Huracan" data-info="Производитель: Lamborghini\nМаксимальная скорость: 325 км/ч\nМощность: 640 л.с.\nЦена: $260,000\nГод выпуска: 2021\nДвигатель: V10">
+      <img src="https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Lamborghini">
       <p>Lamborghini Huracan</p>
     </div>
-    <div class="car" data-name="Porsche 911" data-info="Производитель: Porsche\nМаксимальная скорость: 310 км/ч\nМощность: 450 л.с.\nЦена: $150,000">
-      <img src="https://unsplash.com/photos/1zYd3v9Q8J4/download?force=true&w=400" alt="Porsche">
+    <div class="car" data-name="Porsche 911" data-info="Производитель: Porsche\nМаксимальная скорость: 310 км/ч\nМощность: 450 л.с.\nЦена: $150,000\nГод выпуска: 2021\nДвигатель: 6-цилиндровый">
+      <img src="https://images.unsplash.com/photo-1603365346672-5c502fe150b0?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Porsche">
       <p>Porsche 911</p>
     </div>
     <!-- Добавляем ещё 6 машин по аналогии -->
-    <div class="car" data-name="McLaren 720S" data-info="Производитель: McLaren\nМаксимальная скорость: 341 км/ч\nМощность: 710 л.с.\nЦена: $300,000">
-      <img src="https://unsplash.com/photos/G4LwHSI14eQ/download?force=true&w=400" alt="McLaren">
+    <div class="car" data-name="McLaren 720S" data-info="Производитель: McLaren\nМаксимальная скорость: 341 км/ч\nМощность: 710 л.с.\nЦена: $300,000\nГод выпуска: 2021\nДвигатель: V8">
+      <img src="https://images.unsplash.com/photo-1607989151182-392c3f868bb3?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="McLaren">
       <p>McLaren 720S</p>
     </div>
-    <div class="car" data-name="Aston Martin DB11" data-info="Производитель: Aston Martin\nМаксимальная скорость: 322 км/ч\nМощность: 600 л.с.\nЦена: $200,000">
-      <img src="https://unsplash.com/photos/E2psl9xU1iQ/download?force=true&w=400" alt="Aston Martin">
+    <div class="car" data-name="Aston Martin DB11" data-info="Производитель: Aston Martin\nМаксимальная скорость: 322 км/ч\nМощность: 600 л.с.\nЦена: $200,000\nГод выпуска: 2020\nДвигатель: V12">
+      <img src="https://images.unsplash.com/photo-1617207692953-6e4b3b59fc02?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Aston Martin">
       <p>Aston Martin DB11</p>
     </div>
-    <div class="car" data-name="Bugatti Chiron" data-info="Производитель: Bugatti\nМаксимальная скорость: 420 км/ч\nМощность: 1500 л.с.\nЦена: $3,000,000">
-      <img src="https://unsplash.com/photos/qjZ8r0-J5qI/download?force=true&w=400" alt="Bugatti">
+    <div class="car" data-name="Bugatti Chiron" data-info="Производитель: Bugatti\nМаксимальная скорость: 420 км/ч\nМощность: 1500 л.с.\nЦена: $3,000,000\nГод выпуска: 2021\nДвигатель: W16">
+      <img src="https://images.unsplash.com/photo-1597006507163-d3ffb0f7479a?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Bugatti">
       <p>Bugatti Chiron</p>
     </div>
-    <div class="car" data-name="Chevrolet Corvette" data-info="Производитель: Chevrolet\nМаксимальная скорость: 312 км/ч\nМощность: 495 л.с.\nЦена: $90,000">
-      <img src="https://unsplash.com/photos/2xX8vJx9G3Q/download?force=true&w=400" alt="Corvette">
+    <div class="car" data-name="Chevrolet Corvette" data-info="Производитель: Chevrolet\nМаксимальная скорость: 312 км/ч\nМощность: 495 л.с.\nЦена: $90,000\nГод выпуска: 2021\nДвигатель: V8">
+      <img src="https://images.unsplash.com/photo-1616587895362-5f1d1e0f2f85?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Corvette">
       <p>Chevrolet Corvette</p>
     </div>
-    <div class="car" data-name="Ford Mustang" data-info="Производитель: Ford\nМаксимальная скорость: 250 км/ч\nМощность: 450 л.с.\nЦена: $60,000">
-      <img src="https://unsplash.com/photos/lrQPTQs7nQQ/download?force=true&w=400" alt="Mustang">
+    <div class="car" data-name="Ford Mustang" data-info="Производитель: Ford\nМаксимальная скорость: 250 км/ч\nМощность: 450 л.с.\nЦена: $60,000\nГод выпуска: 2020\nДвигатель: V8">
+      <img src="https://images.unsplash.com/photo-1605209545478-b85a7f4b3c28?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Mustang">
       <p>Ford Mustang</p>
     </div>
-    <div class="car" data-name="Nissan GT-R" data-info="Производитель: Nissan\nМаксимальная скорость: 315 км/ч\nМощность: 565 л.с.\nЦена: $115,000">
-      <img src="https://unsplash.com/photos/3MnJG0h_XQo/download?force=true&w=400" alt="Nissan">
+    <div class="car" data-name="Nissan GT-R" data-info="Производитель: Nissan\nМаксимальная скорость: 315 км/ч\nМощность: 565 л.с.\nЦена: $115,000\nГод выпуска: 2021\nДвигатель: V6 Twin Turbo">
+      <img src="https://images.unsplash.com/photo-1605906151630-39e9f2cbac1d?crop=entropy&cs=tinysrgb&fit=max&w=400&q=80" alt="Nissan">
       <p>Nissan GT-R</p>
     </div>
   </div>
@@ -183,7 +198,7 @@
 </div>
 
 <script>
-  // Подсветка курсора на главном меню
+  // Подсветка курсора
   const cursor = document.getElementById("cursorLight");
   document.addEventListener("mousemove", e => {
     cursor.style.left = e.clientX + "px";
