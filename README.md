@@ -501,8 +501,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Ferrari F8 Tributo',
-          'https://images.unsplash.com/photo-1549921296-3f1b1f6bcd99?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80',
-          'https://upload.wikimedia.org/wikipedia/en/1/10/Ferrari-Logo.png',
+          'https://i.infocar.ua/img/mats/11448/ins/1641991051901.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKe4UxIL8x6Nk2NZp2l5yWkPASZPpcQZc3Tg&s',
           'F8 — динамичный суперкар с итальянским характером и отличной аэродинамикой.',
           '3.9L V8 TwinTurbo',
           '≈ 0–100 км/ч за ~2.9–3.0 с • макс ~340 км/ч',
@@ -517,8 +517,8 @@
 
         <div class="card" onclick="openModal(
           'Ferrari 488',
-          'https://images.unsplash.com/photo-1549921296-3f1b1f6bcd99?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80',
-          'https://upload.wikimedia.org/wikipedia/en/1/10/Ferrari-Logo.png',
+          'https://hips.hearstapps.com/hmg-prod/images/2019-ferrari-488-pista-inline5-1528489338.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKe4UxIL8x6Nk2NZp2l5yWkPASZPpcQZc3Tg&s',
           '488 — турбированная эра Ferrari: мощность и точная управляемость.',
           '3.9L V8 TwinTurbo',
           '≈ 0–100 км/ч за ~3.0 с',
@@ -533,8 +533,8 @@
 
         <div class="card" onclick="openModal(
           'Ferrari LaFerrari',
-          'https://cdn.pixabay.com/photo/2015/03/27/13/16/car-694098_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/en/1/10/Ferrari-Logo.png',
+          'https://all-andorra.com/wp-content/uploads/2016/10/ferrari-laferrari-best-car-engine.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKe4UxIL8x6Nk2NZp2l5yWkPASZPpcQZc3Tg&s',
           'LaFerrari — гибридный гиперкар, ограниченная серия для коллекционеров.',
           'Гибрид V12 + электромотор',
           'макс очень высокий, более 350+ миль/ч (ограничения), практические значения — экстремальные',
@@ -557,8 +557,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Porsche 911',
-          'https://images.unsplash.com/photo-1502877338535-766e1452684a?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80',
-          'https://upload.wikimedia.org/wikipedia/commons/0/0a/Porsche.svg',
+          'https://i.bstr.es/highmotor/2024/07/img_6-1280x720.jpg',
+          'https://koleso.ru/articles/wp-content/uploads/2023/11/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-PORSCHE.jpg',
           '911 — классика Porsche: оппозитный двигатель, идеальная управляемость и длинная история успеха.',
           'Оппозитный 6-цилиндровый',
           'зависит от модификации; трековые версии очень быстры',
@@ -573,8 +573,8 @@
 
         <div class="card" onclick="openModal(
           'Porsche Taycan',
-          'https://images.unsplash.com/photo-1549921296-3f1b1f6bcd99?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80',
-          'https://upload.wikimedia.org/wikipedia/commons/0/0a/Porsche.svg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWS3bYZJeYBpcDY8Z1O6YL-UnoCqP-3itBLA&s',
+          'https://koleso.ru/articles/wp-content/uploads/2023/11/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-PORSCHE.jpg',
           'Taycan — электрический спорткар Porsche: молниеносный отклик и премиальный салон.',
           'Электродвигатели (полный привод)',
           'быстрая разгонная динамика; макс зависит от версии',
@@ -589,8 +589,8 @@
 
         <div class="card" onclick="openModal(
           'Porsche Panamera',
-          'https://cdn.pixabay.com/photo/2016/01/19/17/48/porsche-1149900_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/0/0a/Porsche.svg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgg0T2f8F5c1-mCNckdeDR3L-ubWiKLPzXgA&s',
+          'https://koleso.ru/articles/wp-content/uploads/2023/11/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-PORSCHE.jpg',
           'Panamera — люкс-спортседан, сочетающий комфорт и спортивную динамику.',
           'V6 / V8 / гибридные варианты',
           'динамика высокого уровня для седана',
@@ -613,8 +613,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Lamborghini Huracan',
-          'https://images.unsplash.com/photo-1470418048257-7e7c6e74f2f3?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80',
-          'https://upload.wikimedia.org/wikipedia/commons/3/31/Lamborghini_Logo.svg',
+          'https://auto.ironhorse.ru/wp-content/uploads/2020/01/huracan-evo-motor.jpg',
+          'https://i.pinimg.com/736x/f2/b1/2d/f2b12dfc3534889801734e4518be4356.jpg',
           'Huracan — яркий итальянский суперкар с V10 и острым дизайном.',
           'V10',
           '≈ 0–100 км/ч за ~2.9–3.2 с',
@@ -629,8 +629,8 @@
 
         <div class="card" onclick="openModal(
           'Lamborghini Aventador',
-          'https://images.unsplash.com/photo-1542367597-1a5f9d3a1d46?crop=entropy&cs=tinysrgb&fit=max&w=1280&q=80',
-          'https://upload.wikimedia.org/wikipedia/commons/3/31/Lamborghini_Logo.svg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OvSQ-niLzrWczi8QvHYoHoV01Y-IoQUHPA&s',
+          'https://i.pinimg.com/736x/f2/b1/2d/f2b12dfc3534889801734e4518be4356.jpg',
           'Aventador — флагман с V12 и экстремальным обликом.',
           'V12',
           'макс очень высокий; разгон молниеносный',
@@ -645,8 +645,8 @@
 
         <div class="card" onclick="openModal(
           'Lamborghini Urus',
-          'https://cdn.pixabay.com/photo/2019/11/25/05/50/automobile-4657549_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/3/31/Lamborghini_Logo.svg',
+          'https://grandcar.kz/wp-content/uploads/2024/11/key_key21_364234.jpg',
+          'https://i.pinimg.com/736x/f2/b1/2d/f2b12dfc3534889801734e4518be4356.jpg',
           'Urus — высокопроизводительный SUV, сочетает комфорт и спортивные качества.',
           'V8 TwinTurbo',
           'макс ~305 км/ч (в зависимости от версии)',
@@ -669,8 +669,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Bugatti Chiron',
-          'https://cdn.pixabay.com/photo/2017/01/31/20/42/auto-2029173_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/6/69/Bugatti_logo.png',
+          'https://i.redd.it/m51s2dzb7nm21.jpg',
+          'https://avatars.mds.yandex.net/i?id=59d115b21438af1cb33e72e89634fd76-4578360-images-thumbs&n=13',
           'Chiron — гиперкар с W16 и невероятными показателями мощности и скорости.',
           'W16',
           'макс свыше 400 км/ч (в зависимости от версии)',
@@ -685,8 +685,8 @@
 
         <div class="card" onclick="openModal(
           'Bugatti Veyron',
-          'https://cdn.pixabay.com/photo/2014/12/15/13/40/bugatti-569223_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/6/69/Bugatti_logo.png',
+          'https://autoiwc.ru/images/bugatti/bugatti-veyron_8.webp',
+          'https://avatars.mds.yandex.net/i?id=59d115b21438af1cb33e72e89634fd76-4578360-images-thumbs&n=13',
           'Veyron — легендарный прорывной гиперкар своего времени, ломал рекорды скорости.',
           'W16',
           'макс до ~407+ км/ч (в зависимости от модификации)',
@@ -701,8 +701,8 @@
 
         <div class="card" onclick="openModal(
           'Bugatti Centodieci',
-          'https://cdn.pixabay.com/photo/2021/08/10/12/09/car-6539008_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/6/69/Bugatti_logo.png',
+          'https://auto.vercity.ru/img/news/2018/09/11/1536644303.jpg',
+          'https://avatars.mds.yandex.net/i?id=59d115b21438af1cb33e72e89634fd76-4578360-images-thumbs&n=13',
           'Centodieci — очень ограниченная серия, эксклюзив для коллекционеров.',
           'W16',
           'показатели экстремальные, акцент на эксклюзивность',
