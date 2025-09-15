@@ -333,7 +333,7 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Mercedes-AMG GT',
-          'https://cdn.pixabay.com/photo/2017/03/27/14/56/mercedes-2178774_1280.jpg',
+          'https://thumbs.dreamstime.com/z/%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-coupe-%D0%BC%D0%B5%D1%80%D1%81%D0%B5%D0%B4%D0%B5%D1%81-amg-gt-c-117239294.jpg',
           'https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg',
           'AMG GT — спортивное купе от Mercedes-AMG, ориентированное на драйверов и трек.',
           '4.0L V8 Biturbo',
@@ -349,7 +349,7 @@
 
         <div class="card" onclick="openModal(
           'Mercedes G-Class',
-          'https://cdn.pixabay.com/photo/2020/05/28/12/47/mercedes-5233717_1280.jpg',
+          'https://img.mercedes-benz-kiev.com/data/news/325-novi-modeli-mercedes-benz-g-class-ta-mercedes-amg-g-63-2024-roku/novi-modeli-mercedes-benz-g-class-ta-mercedes-amg-g-63-2024-roku-14.jpg',
           'https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg',
           'G-Class — легендарный внедорожник, сочетает проходимость и премиум-интерьер.',
           'V8 (в большинстве современных версий)',
@@ -365,7 +365,7 @@
 
         <div class="card" onclick="openModal(
           'Mercedes C63 AMG',
-          'https://cdn.pixabay.com/photo/2016/11/29/05/58/car-1866500_1280.jpg',
+          'https://avatars.mds.yandex.net/get-autoru-vos/2027711/9489956784fe55f156ee82b490f33437/456x342',
           'https://upload.wikimedia.org/wikipedia/commons/9/90/Mercedes-Logo.svg',
           'C63 AMG — компактный спортивный седан, создаёт много удовольствия у водителя.',
           '4.0L V8 Biturbo',
@@ -389,8 +389,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Audi R8',
-          'https://cdn.pixabay.com/photo/2016/02/13/12/26/car-1191507_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/6/6b/Audi_logo_2016.svg',
+          'https://vvm-auto.ru/images/VVM-AUTO/TEST-REWIEWS/Audi/Audi-R8/Audi-R8-8.jpg',
+          'https://avtozaryad.ru/upload/iblock/c15/g73bwu2i50zx2ct3gxsdk5248x1vc15h.png',
           'Audi R8 — суперкар с V10 и системой quattro, отличный баланс технологий и драйва.',
           'V10',
           '≈ 0–100 км/ч за 3.4–3.6 с • макс ~330 км/ч',
