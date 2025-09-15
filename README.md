@@ -405,8 +405,8 @@
 
         <div class="card" onclick="openModal(
           'Audi RS6',
-          'https://cdn.pixabay.com/photo/2017/09/02/13/02/audi-2702098_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/6/6b/Audi_logo_2016.svg',
+          'https://vvm-auto.ru/images/VVM-AUTO/OPIT_EKSPLYATACI/AUDI/Audi-RS6-C5/Audi-RS6-C5-6.jpg',
+          'https://avtozaryad.ru/upload/iblock/c15/g73bwu2i50zx2ct3gxsdk5248x1vc15h.png',
           'RS6 Avant — быстрый универсал, сочетающий практичность и супер-динамику.',
           '4.0L V8 Biturbo',
           '≈ 0–100 км/ч за ~3.6 с',
@@ -421,8 +421,8 @@
 
         <div class="card" onclick="openModal(
           'Audi TT',
-          'https://cdn.pixabay.com/photo/2017/01/27/14/05/car-2017501_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/6/6b/Audi_logo_2016.svg',
+          'https://auto2020.ru/images/Leg/Audi/Audi_TT/Audi_TT_9.jpg',
+          'https://avtozaryad.ru/upload/iblock/c15/g73bwu2i50zx2ct3gxsdk5248x1vc15h.png',
           'Audi TT — компактное стильное купе с хорошей управляемостью.',
           '2.0L Turbo / 4-cyl',
           'макс ~250–260 км/ч',
@@ -445,8 +445,8 @@
       <div class="gallery">
         <div class="card" onclick="openModal(
           'Toyota Supra',
-          'https://cdn.pixabay.com/photo/2016/03/27/21/16/car-1284514_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_logo.png',
+          'https://avatars.mds.yandex.net/get-vertis-journal/4466156/11.jpg_1626941449354/orig',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6J3ZeasQVcQXVD8UcpziS9swsImjkebATYA&s',
           'Toyota Supra — спортивное купе с японской историей и хорошей динамикой.',
           '3.0L Turbo',
           '≈ 0–100 км/ч за 4.1–4.3 с',
@@ -461,8 +461,8 @@
 
         <div class="card" onclick="openModal(
           'Toyota Camry70',
-          'https://cdn.pixabay.com/photo/2021/04/11/09/12/toyota-6176224_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_logo.png',
+          'https://kolesa-photos.kcdn.online/kolesa-newautomodels/608a85118e5776001b55a6f2/56/full.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6J3ZeasQVcQXVD8UcpziS9swsImjkebATYA&s',
           'Camry — один из красивых модели Toyota',
           '3.5L',
           '≈ 0–100 км/ч за ~7-7.5 с',
@@ -477,8 +477,8 @@
 
         <div class="card" onclick="openModal(
           'Toyota Land Cruiser',
-          'https://cdn.pixabay.com/photo/2016/11/19/14/00/toyota-1835407_1280.jpg',
-          'https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_logo.png',
+          'https://auto.ironhorse.ru/wp-content/uploads/2012/04/Land-Cruiser-200-motor-diesel.jpg',
+          'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6J3ZeasQVcQXVD8UcpziS9swsImjkebATYA&s',
           'Land Cruiser — легендарный внедорожник, незаменимый в экспедициях и дальних путешествиях.',
           '4.5L / V8 (в разных версиях)',
           'макс ~180–200 км/ч (зависит от версии)',
